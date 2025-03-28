@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./storage/smartsui.jpeg" alt="SMARTSUI Logo" width="300"/>
+</p>
+
 # SMARTSUI: No-Code Smart Contract Builder on SUI
 
 ## Project Overview
